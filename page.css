@@ -1,0 +1,71 @@
+html {
+    height: 100%;
+    }
+    body {
+    background-image: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));
+    }
+
+    .middle{
+        position: absolute;
+        margin-left: 200px;
+        margin-top: 70px;
+        background-color: white;
+        width: 1100px;
+        height: 600px;
+    }
+    
+    .contact{
+        position: absolute;
+        margin-left: 570px;
+        margin-top: 130px;
+        background-color: white;
+        width: auto;
+        color: rgb(54, 110, 177);
+        text-align: center;
+    }
+
+    .address{
+        position: absolute;
+        margin-left: 470px;
+        margin-top: 300px;
+        background-color: rgb(255, 255, 255);
+        font-size: 20px;
+        width: 150px;
+        color: rgb(0, 0, 0);
+        text-align: left;
+    }
+
+    .number{
+        position: absolute;
+        margin-left: 870px;
+        margin-top: 300px;
+        background-color: rgb(255, 255, 255);
+        font-size: 20px;
+        width: 200px;
+        color: rgb(0, 0, 0);
+        text-align: left;
+    }
+
+    .mail{
+        position: absolute;
+        margin-left: 470px;
+        margin-top: 450px;
+        background-color: rgb(255, 255, 255);
+        font-size: 20px;
+        width: 150px;
+        color: rgb(0, 0, 0);
+        text-align: left;
+    }
+
+    .web{
+        position: absolute;
+        margin-left: 870px;
+        margin-top: 450px;
+        background-color: rgb(255, 255, 255);
+        font-size: 20px;
+        width: 200px;
+        color: rgb(0, 0, 0);
+        text-align: left;
+        text-decoration: none;
+    }
+

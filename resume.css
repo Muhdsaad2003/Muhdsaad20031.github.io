@@ -1,0 +1,313 @@
+html{
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    min-height: auto;
+    border: 5px;
+}
+
+
+
+#pagewrapper{
+    border: 1px white solid;
+    min-height: auto;
+}
+
+.top{
+    /*position: absolute;*/
+    margin-left: 0%;
+    padding: 5px 0px;
+    width: 1500px;
+    height: 13.39%;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: left;
+    background-color: rgb(255, 255, 255)
+}
+
+.main {
+    /*position: absolute;*/
+    margin-top: 0px;
+    margin-left: 105px;
+    width: 1005px;
+    height: 350px;
+    padding: 0 20px;
+}
+
+body{
+    background-color: rgb(211, 224, 228);
+}
+
+.name {
+    /*position: absolute;*/
+    margin-left: 250px;
+    margin-top: -20px;
+    padding: 0 30px;
+    height: 100px;
+    width: 965px;
+    background-color: rgb(255, 255, 255);
+}
+
+.contact{
+    /*position: absolute;*/
+    background-color: rgb(237, 71, 71);
+    display: inline-block;
+    margin-left: 875px;
+    display: block;
+    margin-top: -80px;
+    padding: 10px 20px;
+    width: 180px;
+    text-align: center;
+    border-radius: 25px;
+    /*cursor: pointer;*/
+}
+
+.summary{
+    /*position: absolute;*/
+    margin-left: 175px;
+    margin-top: 50px;
+    padding: 5px 20px;
+    width: 700px;
+    height: 10%;
+    background-color: rgb(211, 224, 228);
+}
+.sumnote{
+    /*position: absolute;*/
+    margin-left: 250px;
+    margin-top: 15px;
+    padding: 5px 30px;
+    width: 700px;
+    height: 18%;
+    background-color: rgb(255, 255, 255);
+}
+.work{
+    /*position: absolute;*/
+    margin-top: 15px;
+    margin-left: 175px;
+    padding: 5px 20px;
+    width: 700px;
+    height: 10%;
+    background-color: rgb(211, 224, 228);
+}
+.workdes1{
+    /*position: absolute;*/
+    margin-left: 250px;
+    margin-top: 15px;
+    padding: 5px 30px;
+    width: 700px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+#workhis1{
+    /*position: absolute;*/
+    margin-left: 250px;
+    margin-top: 0px;
+    padding: 5px 30px;
+    width: 700px;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+}
+
+.workdes2{
+    /*position: absolute;*/
+    margin-left: 250px;
+    margin-top: 50px;
+    padding: 5px 30px;
+    width: 700px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+#workhis2{
+    /*position: absolute;*/
+    margin-left: 250px;
+    margin-top: 0px;
+    padding: 5px 30px;
+    width: 700px;
+    font-family: 'Times New Roman', Times, serif;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.workdes3{
+    /*position: absolute;*/
+    margin-left: 250px;
+    margin-top: 50px;
+    padding: 5px 30px;
+    width: 700px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+#workhis3{
+    /*position: absolute;*/
+    margin-left: 250px;
+    margin-top: 0px;
+    padding: 5px 30px;
+    width: 700px;
+    font-family: 'Times New Roman', Times, serif;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.edu{
+    /*position: absolute;*/
+    margin-top: 15px;
+    margin-left: 175px;
+    padding: 5px 20px;
+    width: 700px;
+    height: 10%;
+    background-color: rgb(211, 224, 228);
+}
+
+.edudes{
+    /*position: absolute;*/
+    margin-left: 250px;
+    margin-top: 15px;
+    padding: 5px 30px;
+    width: 700px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.skills{
+    /*position: absolute;*/
+    margin-top: 15px;
+    margin-left: 175px;
+    padding: 5px 20px;
+    width: 700px;
+    height: 10%;
+    background-color: rgb(211, 224, 228);
+}
+
+.skilldes{
+    /*position: absolute;*/
+    margin-left: 250px;
+    margin-top: 15px;
+    padding: 5px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 700px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.time{
+    /*position: absolute;*/
+    margin-top: 15px;
+    margin-left: 175px;
+    padding: 5px 20px;
+    width: 700px;
+    height: 10%;
+    background-color: rgb(211, 224, 228);
+}
+
+.verticalLine {
+    height: 465px;
+    border-right: 1px solid #000900;
+    margin-top: 100px;
+    position: absolute;
+    right: 50%;
+}
+
+.dot1{
+    width: fit-content;
+    margin-top: 90px;
+    margin-left: 741px;
+}
+
+.dot2{
+    width: fit-content;
+    margin-top: 120px;
+    margin-left: 741px;
+}
+
+.dot3{
+    width: fit-content;
+    margin-top: 120px;
+    margin-left: 741px;
+}
+
+.dot4{
+    width: fit-content;
+    margin-top: 160px;
+    margin-left: 741px;
+}
+
+.box1{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -575px;
+    padding: 5px 30px;
+    width: 400px;
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color:rgb(255, 255, 255)
+}
+
+.box2{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: -425px;
+    padding: 5px 30px;
+    width: 400px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    background-color:rgb(255, 255, 255)
+}
+
+.box3{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -275px;
+    padding: 5px 30px;
+    width: 400px;
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color:rgb(255, 255, 255)
+}
+
+.box4{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: -125px;
+    padding: 5px 30px;
+    width: 400px;
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    background-color:rgb(255, 255, 255)
+}
+
+.buttom{
+    position: absolute;
+    margin-left: 0%;
+    padding: 5px 0px;
+    margin-top: 75px;
+    width: 1500px;
+    height: 13%;
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    text-align: left;
+    background-color: rgb(0, 0, 0)
+}
+
+
+
+
+
+
+
+
+
+
+  
